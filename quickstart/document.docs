@@ -1,0 +1,5 @@
+Link: https://laravel.com/docs/5.1/quickstart-intermediate
+Github repository: https://github.com/laravel/quickstart-intermediate
+Position: class User extends Model implements AuthenticatableContract,
+
+
